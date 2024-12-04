@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 27e13071248e6624791b63d78bc44a3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3451690342171759049
+    second: Laser_sheet-export_0
+  - first:
+      213: -8033907973635699408
+    second: Laser_sheet-export_1
+  - first:
+      213: 6301212987599856268
+    second: Laser_sheet-export_2
+  - first:
+      213: 5945713403133458487
+    second: Laser_sheet-export_3
+  - first:
+      213: -558104764584770666
+    second: Laser_sheet-export_4
+  - first:
+      213: 2832758237313988231
+    second: Laser_sheet-export_5
+  - first:
+      213: 6025410194271922837
+    second: Laser_sheet-export_6
+  - first:
+      213: 240721493090787765
+    second: Laser_sheet-export_7
+  - first:
+      213: -2252861327856027301
+    second: Laser_sheet-export_8
+  - first:
+      213: -8746133226806763751
+    second: Laser_sheet-export_9
+  - first:
+      213: -1051065073352784898
+    second: Laser_sheet-export_10
+  - first:
+      213: 9137454603242881495
+    second: Laser_sheet-export_11
+  - first:
+      213: -7903781690178529183
+    second: Laser_sheet-export_12
+  - first:
+      213: 8869134772072304565
+    second: Laser_sheet-export_13
+  - first:
+      213: -8880814503335192011
+    second: Laser_sheet-export_14
+  - first:
+      213: -6960115112855251452
+    second: Laser_sheet-export_15
+  - first:
+      213: 3015884285035635240
+    second: Laser_sheet-export_16
+  - first:
+      213: -7708843092352316308
+    second: Laser_sheet-export_17
+  - first:
+      213: 211106922655601884
+    second: Laser_sheet-export_18
+  - first:
+      213: -7154780985996569406
+    second: Laser_sheet-export_19
+  - first:
+      213: -8109993777638753765
+    second: Laser_sheet-export_20
+  - first:
+      213: 1102943936040338159
+    second: Laser_sheet-export_21
+  - first:
+      213: -6275719271103280136
+    second: Laser_sheet-export_22
+  - first:
+      213: 4186563619412034320
+    second: Laser_sheet-export_23
+  - first:
+      213: 4526454025063788854
+    second: Laser_sheet-export_24
+  - first:
+      213: 2239789622137844984
+    second: Laser_sheet-export_25
+  - first:
+      213: 3115263953582177565
+    second: Laser_sheet-export_26
+  - first:
+      213: -659281029266506199
+    second: Laser_sheet-export_27
+  - first:
+      213: -1899241982614136039
+    second: Laser_sheet-export_28
+  - first:
+      213: 761515436827065207
+    second: Laser_sheet-export_29
+  - first:
+      213: -1374638100935757456
+    second: Laser_sheet-export_30
+  - first:
+      213: -5973620928991589802
+    second: Laser_sheet-export_31
+  - first:
+      213: -6769078908264390682
+    second: Laser_sheet-export_32
+  - first:
+      213: -4485184046086162349
+    second: Laser_sheet-export_33
+  - first:
+      213: -6141951207078278100
+    second: Laser_sheet-export_34
+  - first:
+      213: 328927581906008978
+    second: Laser_sheet-export_35
+  - first:
+      213: -4748539037629791278
+    second: Laser_sheet-export_36
+  - first:
+      213: -3796696579394330707
+    second: Laser_sheet-export_37
+  - first:
+      213: -8230956794992617571
+    second: Laser_sheet-export_38
+  - first:
+      213: -6323777333371729844
+    second: Laser_sheet-export_39
+  - first:
+      213: -7698593287502877886
+    second: Laser_sheet-export_40
+  - first:
+      213: 6559321410797305827
+    second: Laser_sheet-export_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Laser_sheet-export_0
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 6814
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ea430fbe12910d0800000000000000
+      internalID: -3451690342171759049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 6414
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d04417343d18090800000000000000
+      internalID: -8033907973635699408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 6414
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82a7f3b3d7627750800000000000000
+      internalID: 6301212987599856268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 6284
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7387c02a6da638250800000000000000
+      internalID: 5945713403133458487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 6234
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693c87f6ca63148f0800000000000000
+      internalID: -558104764584770666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 6234
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78679a5bb9aff4720800000000000000
+      internalID: 2832758237313988231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 5909
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a689fc5ae8e9350800000000000000
+      internalID: 6025410194271922837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 5904
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b16a7d2ce6375300800000000000000
+      internalID: 240721493090787765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_8
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 5784
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b593de8fe8a3cb0e0800000000000000
+      internalID: -2252861327856027301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 5734
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f11f15b2e7f9680800000000000000
+      internalID: -8746133226806763751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 5734
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3ccf272edd961f0800000000000000
+      internalID: -1051065073352784898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 5399
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1cc81ac82cece70800000000000000
+      internalID: 9137454603242881495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_12
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 5399
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1681ca6cd60205290800000000000000
+      internalID: -7903781690178529183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 5284
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf4f62a51f751b70800000000000000
+      internalID: 8869134772072304565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 5234
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a9194034201c480800000000000000
+      internalID: -8880814503335192011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 5234
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4065f6e5e24b86f90800000000000000
+      internalID: -6960115112855251452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 4889
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8226b3547c29ad920800000000000000
+      internalID: 3015884285035635240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_17
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 4889
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ccd1bfc00b40590800000000000000
+      internalID: -7708843092352316308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 4784
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4538ea0a00ee200800000000000000
+      internalID: 211106922655601884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_19
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 4734
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c494f3d99c15bc90800000000000000
+      internalID: -7154780985996569406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_20
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 4734
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ab639b0a3837f80800000000000000
+      internalID: -8109993777638753765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 4389
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe20bda8aa17e4f00800000000000000
+      internalID: 1102943936040338159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_22
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 4389
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbc0d7b29a28e8a0800000000000000
+      internalID: -6275719271103280136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_23
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 4284
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013c0a43e69a91a30800000000000000
+      internalID: 4186563619412034320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_24
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 4244
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631701024f131de30800000000000000
+      internalID: 4526454025063788854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_25
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 4244
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4f12f5bc4551f10800000000000000
+      internalID: 2239789622137844984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3889
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d38d67f04ab3b20800000000000000
+      internalID: 3115263953582177565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_27
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 3889
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e7a6b9563c9d6f0800000000000000
+      internalID: -659281029266506199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_28
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 3784
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b96cbba7984a5e0800000000000000
+      internalID: -1899241982614136039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_29
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3754
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bbd0f4142719a00800000000000000
+      internalID: 761515436827065207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_30
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 3754
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071b10b2eed4cece0800000000000000
+      internalID: -1374638100935757456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_31
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3389
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a0e982a6f691da0800000000000000
+      internalID: -5973620928991589802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_32
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 3389
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efdf48d8966f02a0800000000000000
+      internalID: -6769078908264390682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_33
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 3284
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358f8c4afdc61c1c0800000000000000
+      internalID: -4485184046086162349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_34
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3259
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c415a2be763caa0800000000000000
+      internalID: -6141951207078278100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_35
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 3259
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bf55c94e5909400800000000000000
+      internalID: 328927581906008978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_36
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2724
+        width: 1351
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3400477ecc91eb0800000000000000
+      internalID: -4748539037629791278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_37
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2249
+        width: 1321
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf9249a39c6f4bc0800000000000000
+      internalID: -3796696579394330707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_38
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1769
+        width: 1306
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9790e88764c5cd80800000000000000
+      internalID: -8230956794992617571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1269
+        width: 1306
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4806b5250e6d38a0800000000000000
+      internalID: -6323777333371729844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 774
+        width: 1296
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b2f24a13a192590800000000000000
+      internalID: -7698593287502877886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laser_sheet-export_41
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 274
+        width: 1296
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efff220214670b50800000000000000
+      internalID: 6559321410797305827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Laser_sheet-export_0: -3451690342171759049
+      Laser_sheet-export_1: -8033907973635699408
+      Laser_sheet-export_10: -1051065073352784898
+      Laser_sheet-export_11: 9137454603242881495
+      Laser_sheet-export_12: -7903781690178529183
+      Laser_sheet-export_13: 8869134772072304565
+      Laser_sheet-export_14: -8880814503335192011
+      Laser_sheet-export_15: -6960115112855251452
+      Laser_sheet-export_16: 3015884285035635240
+      Laser_sheet-export_17: -7708843092352316308
+      Laser_sheet-export_18: 211106922655601884
+      Laser_sheet-export_19: -7154780985996569406
+      Laser_sheet-export_2: 6301212987599856268
+      Laser_sheet-export_20: -8109993777638753765
+      Laser_sheet-export_21: 1102943936040338159
+      Laser_sheet-export_22: -6275719271103280136
+      Laser_sheet-export_23: 4186563619412034320
+      Laser_sheet-export_24: 4526454025063788854
+      Laser_sheet-export_25: 2239789622137844984
+      Laser_sheet-export_26: 3115263953582177565
+      Laser_sheet-export_27: -659281029266506199
+      Laser_sheet-export_28: -1899241982614136039
+      Laser_sheet-export_29: 761515436827065207
+      Laser_sheet-export_3: 5945713403133458487
+      Laser_sheet-export_30: -1374638100935757456
+      Laser_sheet-export_31: -5973620928991589802
+      Laser_sheet-export_32: -6769078908264390682
+      Laser_sheet-export_33: -4485184046086162349
+      Laser_sheet-export_34: -6141951207078278100
+      Laser_sheet-export_35: 328927581906008978
+      Laser_sheet-export_36: -4748539037629791278
+      Laser_sheet-export_37: -3796696579394330707
+      Laser_sheet-export_38: -8230956794992617571
+      Laser_sheet-export_39: -6323777333371729844
+      Laser_sheet-export_4: -558104764584770666
+      Laser_sheet-export_40: -7698593287502877886
+      Laser_sheet-export_41: 6559321410797305827
+      Laser_sheet-export_5: 2832758237313988231
+      Laser_sheet-export_6: 6025410194271922837
+      Laser_sheet-export_7: 240721493090787765
+      Laser_sheet-export_8: -2252861327856027301
+      Laser_sheet-export_9: -8746133226806763751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
